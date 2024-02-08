@@ -1,6 +1,6 @@
 function validateCredentials(email, password) {
     // Declaring the valid email and password
-    let validEmail = "MusinguziSimongmail.com";
+    let validEmail = "MusinguziSimon@gmail.com";
     let validPassword = "2200720505@2024";
  
     // Check if the provided email and password correspond the default ones
@@ -11,6 +11,6 @@ function validateCredentials(email, password) {
     }
 }
  // calling code
- validateCredentials("MusinguziSimongmail.com", "2200720505@2024");
+ validateCredentials("MusinguziSimon@gmail.com", "2200720505@2024");
 
 
